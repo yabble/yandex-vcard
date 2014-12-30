@@ -31,7 +31,7 @@
                     },
                     person: {
                         email: 'yabble@yandex-team.ru',
-                        cellular: '+7 (926) 080-08-80',
+                    //  cellular: '+7 (926) 080-08-80',
                     //  skype: 'yabble',
                     //  github: 'yabble'
                     }
@@ -54,7 +54,7 @@
                     },
                     person: {
                         email: 'yabble@yandex-team.ru',
-                        cellular: '+7 (926) 080-08-80',
+                    //  cellular: '+7 (926) 080-08-80',
                    //   github: 'yabble'
                     }
                 }
