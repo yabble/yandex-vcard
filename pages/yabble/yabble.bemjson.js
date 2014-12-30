@@ -1,6 +1,6 @@
 ({
     block: 'b-page',
-    title: 'Евгений Соломатин — yabble@yandex.ru',
+    title: 'Евгений Соломатин — yabble@',
     favicon: '/favicon.ico',
     head: [
         { elem: 'css', url: 'yabble.css' },
@@ -30,7 +30,7 @@
                         site: 'www.yandex.ru'
                     },
                     person: {
-                        email: 'yabble@yandex.ru',
+                        email: 'yabble@yandex-team.ru',
                         cellular: '+7 (926) 080-08-80',
                     //  skype: 'yabble',
                     //  github: 'yabble'
@@ -53,7 +53,7 @@
                         site: 'www.yandex.com'
                     },
                     person: {
-                        email: 'yabble@yandex.ru',
+                        email: 'yabble@yandex-team.ru',
                         cellular: '+7 (926) 080-08-80',
                    //   github: 'yabble'
                     }
