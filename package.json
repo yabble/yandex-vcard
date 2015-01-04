@@ -1,10 +1,10 @@
 {
-  "author": "Mikhail Troshev",
-  "name": "bem-vcard",
+  "author": "Eugene Solomatin",
+  "name": "yandex-vcard",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mishanga/bem-vcard.git"
+    "url": "git://github.com/yabble/yandex-vcard.git"
   },
   "engines": {
     "node": "0.8 | 0.9"
