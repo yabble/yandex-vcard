@@ -41,7 +41,7 @@ BEM.DOM.decl({ name: 'b-card' }, {
                                 card.findElem('side', 'lang', lang),
                                 'b-card-layout')
                                     .findBlockInside('b-info');
-                        titles[lang] = info.elem('name').text() + ' — ' + info.elem('email').text();
+                        titles[lang] = info.elem('name').text() + ' — ' + info.elem('skype').text();
                     }
                     document.title = titles[lang];
                 })
