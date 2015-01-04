@@ -1,7 +1,7 @@
 ({
     block: 'b-page',
     title: 'Евгений Соломатин — yabble@',
-    favicon: '/favicon.ico',
+    favicon: '//yandex.st/morda-logo/i/favicon.ico',
     head: [
         { elem: 'css', url: 'yabble.css' },
         { elem: 'css', url: 'yabble.ie.css', ie: 'lte IE 7' },
