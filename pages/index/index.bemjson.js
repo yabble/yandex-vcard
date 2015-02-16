@@ -3,10 +3,10 @@
     title: 'Евгений Соломатин — yabble@',
     favicon: '//yandex.st/morda-logo/i/favicon.ico',
     head: [
-        { elem: 'css', url: 'yabble.css' },
-        { elem: 'css', url: 'yabble.ie.css', ie: 'lte IE 7' },
+        { elem: 'css', url: 'index.css' },
+        { elem: 'css', url: 'index.ie.css', ie: 'lte IE 7' },
         { block: 'i-jquery', elem: 'core' },
-        { elem: 'js', url: 'yabble.js' }
+        { elem: 'js', url: 'index.js' }
     ],
     i18n: { langs: ['ru', 'en'], lang: 'ru' },
     content: {
